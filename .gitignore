@@ -2,3 +2,4 @@
 __pycash__/
 .env
 venv/
+*.sqlite3
